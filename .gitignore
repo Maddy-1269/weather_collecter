@@ -1,0 +1,8 @@
+venv/
+.env
+requirments.txt
+terraform.tfstate
+.terraform.lock.hcl
+terraform.tfstate.backup
+.terraform/
+*.json
