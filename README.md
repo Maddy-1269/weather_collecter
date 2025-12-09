@@ -135,13 +135,7 @@ terraform.tfstate.backup
 .terraform/
 .terraform.lock.hcl
 
-## Future Enhancements (Optional)
-Enhancement	Benefit
-Store in DynamoDB	Queryable history
-Add Lambda Trigger	Auto-process incoming data
-Deploy via Docker	Containerized execution
-CI/CD Pipeline	Auto deploy updates
-API Gateway	Provide public API
+
+![WhatsApp Image 2025-12-10 at 12 28 32 AM (1)](https://github.com/user-attachments/assets/b90e47fd-13cf-401b-81b6-d904461acea8)
 
 
-![alt text](image.png)
